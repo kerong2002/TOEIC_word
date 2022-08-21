@@ -1,6 +1,6 @@
 # kerong_myword
 ## myword
-<font size=8>
+<font size=5>
     
 | 單字(150) | 中文翻譯  |
 |-|-|
