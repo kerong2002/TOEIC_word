@@ -2,7 +2,7 @@
 ## myword
 <font size=5>
     
-| 單字(350) | 中文翻譯  |
+| 單字(400) | 中文翻譯  |
 |-|-|
 | bruise | 挫傷；瘀傷；撞傷/使受瘀傷；使青腫；碰傷(水果等)  |
 | cruise | 乘船遊覽；航遊；行駛  |
@@ -11,10 +11,13 @@
 | passenger | 乘客；旅客  |
 | wage | 薪資  |
 | slam | 使勁關閉/ 砰然聲  |
+| electronics | 電子學  |
+| calculator | 計算機；計算機操作者  |
 | order | 順序；有條理；秩序 / 命令；指揮；點餐  |
 | muscle | 肌肉；體力；力量/使勁擠出(一條路)；使勁搬動；使勁行進  |
 | modest | 謙虛的；(女性及其衣飾)端莊的；不太大(或多)的  |
 | collusion | 共謀；勾結  |
+| patron | 贊助人；主顧(尤指老顧客)；(旅店等的)老板  |
 | jet | 噴出物；噴射機/噴出；射出/烏黑發亮的  |
 | reassure | 使安心；使消除疑慮；向...再保證  |
 | enclose | 圍住; 圈起; 關閉住；把(公文等)封入  |
@@ -29,6 +32,7 @@
 | qualitative | 性質上的  |
 | confidence | 信心；自信；信賴  |
 | warehouse | 倉庫/把...存入倉庫  |
+| estate | 地產；財產  |
 | premiere | 首演；首映/初次的；首位的  |
 | earnings | 收入；工資  |
 | expertise | 專業知識  |
@@ -36,7 +40,9 @@
 | settlement | 決定；解決；殖民地；沉降  |
 | strategy | 策略；戰略  |
 | download | 下載  |
+| liable | 易患的；會...的；有義務的  |
 | precocious | 早熟的；早成的  |
+| sociable | 喜好交際的；友善的  |
 | innovation | 革新；創新；新制度  |
 | trauma | 精神創傷；外傷；經歷(痛苦)  |
 | delegation | 委任；代表團  |
@@ -65,9 +71,11 @@
 | galaxy | 銀河系  |
 | currency | 貨幣；通用  |
 | itinerary | 行程；路線；旅行計畫；旅行紀錄  |
+| accuse | 把…歸咎(於)；指控；控告  |
 | musician | 音樂家；樂師；作曲家  |
 | dealer | 交易商；業者  |
 | server | 侍者；叉匙；彌撒時的助祭；發球員  |
+| priority | 居先；優先(權)  |
 | inspect | 檢查；視察  |
 | exempt | 豁免(的)；免除(的) / 被免除義務者  |
 | company | 公司；同伴；客人；劇團  |
@@ -77,14 +85,17 @@
 | pedestrian | 徒步的；行人的；沈悶的/行人  |
 | chopsticks | 筷子  |
 | mandatory | 強制的；法定的；命令的/代理者  |
+| suburb | (城市周圍的)近郊住宅區(或村  |
 | supersonic | 超音速的；超音波的/超音波  |
 | collision | (意見、利益等的)衝突；碰撞; 相撞  |
 | permit | 許可  |
 | empirical | 憑經驗的；以經驗(或觀察)為依據的; 經驗主義的  |
 | hostess | 女主人/擔任...的女主人  |
 | random | 隨意的；隨機的/(現只用於at random)任意行動; 隨機過程  |
+| artificial | 人造的；不自然的；人為的  |
 | converse | 談話  |
 | remedy | 治療；補救；賠償/醫治；糾正；去除(弊病等)  |
+| lodge | 小屋/供給...臨時宿處  |
 | hallmark | 標誌；特徵；保證書  |
 | contractor | 立約人；承包人  |
 | transport | 運輸；交通工具；交通運輸系統；狂喜/使激動；運送；流放  |
@@ -93,6 +104,7 @@
 | stationery | 文具  |
 | attorney | 律師；法定代理人  |
 | preliminary | 初步的；初步行動；開端的/初步；預賽  |
+| applaud | 鼓掌，稱讚，喝采  |
 | finance | 財政；財務/供資金給；籌措資金  |
 | expense | 費用；支出；開支  |
 | slogan | 口號；標語  |
@@ -114,8 +126,11 @@
 | intention | 意圖；目的；含義  |
 | delay | 延遲，耽擱 / 使延期，耽誤  |
 | breakthrough | 突破；突破性進展  |
+| hard-working | 努力工作的；認真  |
 | shopping | 購物；買東西；所購買的物品；商業設施  |
 | appetizer | (主菜前用的)開胃食物  |
+| screen | 屏  |
+| expand | 展開；擴大；詳述；膨脹；變得和藹可親  |
 | assessment | (為徵稅對財產所作的)估價；評價，估計  |
 | carnival | 嘉年華會；(馬戲團等的)巡迴演出; 流動遊藝團；(有組織的)文藝表演  |
 | welfare | 福利；社會救濟/福利的  |
@@ -139,6 +154,7 @@
 | tailor-made | 專門的；非常合適的；(衣服)訂製的; 裁縫製的; 樣式和裁製講究的  |
 | computer | 電腦；電子計算機  |
 | appraisal | 評價，估量，估價  |
+| perceive | 注意到；察覺; 感知；意識到; 理解  |
 | audit | 審計；查帳  |
 | assess | 評價，徵稅；(為徵稅)估定財產的價值  |
 | responsible | 需負責任的；作為原因的；可信賴的  |
@@ -148,12 +164,17 @@
 | obedience | 服從；順從  |
 | regulation | 管理；限制；校準；規則/標準的；正式的；普通的；一般的  |
 | legitimate | 使合法； 宣佈...為合法；證明...有理 / 合法的；合情理的  |
+| entrepreneur | 企業家；事業創辦者；承包人  |
 | allow | 允許；提供；容許；使...成為可能  |
 | urgent | 緊急的；堅持要求的  |
 | attach | 裝上；附加；使依附；把...歸於；指派；使喜愛  |
 | omit | 刪除; 遺漏  |
 | dessert | 甜點；餐後點心  |
 | overall | 整體的；從頭到尾的；總的；全部的/ 工作褲；工作服  |
+| associate | 關聯  |
+| intangible | 難以形容的；無形的  |
+| claim | 要求；聲稱；所有權；主張；(保險)索賠/要求；認領；索取；聲稱；主張；值得  |
+| express | 表達；快遞；擠壓出/快車/明確的  |
 | occupation | 職業；占用  |
 | quarrel | 爭吵；吵架  |
 | inform | 通知；告發  |
@@ -178,6 +199,7 @@
 | rehearsal | 排練；複述  |
 | arrival | 到達；到達者  |
 | declaration | 宣佈  |
+| headquarters | (軍  |
 | liquor | 含酒精的飲料；(尤指白蘭地  |
 | possession | 擁有；財產；領地；鎮定自若；著魔  |
 | development | 生長; 進化; 發展; 發達；發展(或培育等)的結果; 產物；事態發展  |
@@ -186,6 +208,7 @@
 | recipe | 烹飪法; 食譜; (糕餅等的)製作法；訣竅; 方法  |
 | position | 位置；地點；工作；職位 / 把…放置在適當的位置  |
 | image | 肖像；影像；形象；翻版；形象化的描述；化身/想像；反映  |
+| brag | 吹牛；吹噓  |
 | explicit | 清楚的  |
 | graphic | 繪畫的  |
 | witness | 目擊者；證人；證詞/目擊；作...的證人；是...的發生地點；證明  |
@@ -194,6 +217,9 @@
 | umpire | 裁判/ 做仲裁人； 仲裁  |
 | jaywalk | 不遵守交通規則而穿越馬路  |
 | lavish | 奢華的；耗資巨大的；大量的  |
+| distress | 悲痛；苦惱；窮困；危難  |
+| competent | 足夠的；能勝任的  |
+| shorthand | 速記(法)；簡略的表達方式/速記的  |
 | latter | 後面的； (兩者中)後者的；最近的  |
 | transmission | 傳播；傳染  |
 | casino | (有跳舞、音樂等娛樂的)賭場  |
@@ -204,6 +230,7 @@
 | checkout | 付款櫃檯  |
 | matter | 事情;問題 / 有關係;要緊(用於否定句和疑問句)  |
 | bland | 溫和的  |
+| diagnose | 診斷  |
 | rival | 對手/競爭的/與...匹敵；競爭  |
 | disgust | 嫌惡；使厭惡  |
 | surrender | 投降；放棄；使沈溺於；投降/投降；引渡  |
@@ -214,19 +241,26 @@
 | esteem | 尊敬；敬重；意見；價值/認為；估價  |
 | obstacle | 障礙(物)  |
 | thrift | 節儉  |
+| freight | 貨運；(運輸的)貨物/裝貨於；運輸(貨物)  |
 | absurd | 荒唐的，可笑的  |
 | attempt | 嘗試；試圖；試圖攻占/企圖；嘗試；攻擊  |
+| attendant | 服務員；隨員；出席者；伴隨的事物/侍候的；伴隨的；出席的；參加的  |
+| risk | 危險  |
+| highlight | 強調；用色筆標示/ 強光(效果); (畫等的)最明亮部分  |
 | account | 帳戶；描述/認為；解釋  |
 | condone | 寬恕；赦免  |
 | prosperous | 繁榮的；富有的；有利的  |
 | periodical | 期刊/定期的  |
 | buffet | 搖擺；打擊；連續衝擊/一擊；衝擊；打擊；奮勇前進  |
+| approval | 同意；認可  |
 | navigate | 導航；操縱  |
 | cuisine | 烹飪  |
 | loot | 贓物；戰利品；掠奪物 / 搶劫；洗劫；強奪  |
+| subsidiary | 附帶的；次要的；輔助的；隸屬的/子公司  |
 | seasoning | 調味料；佐料；增添趣味的東西  |
 | destination | 目的地  |
 | packing | 包裝，打包行李；罐頭工業；填料; 襯墊  |
+| identity | 身分；同一物；一致(處)；特性  |
 | energetic | 精力旺盛的; 精神飽滿的；有力的; 積極的  |
 | international | 國際的  |
 | slump | 暴跌; 下降; 不景氣/(突然或沈重地)倒下  |
@@ -249,6 +283,7 @@
 | immune | 免除的；免於...的/免疫者  |
 | option | 選擇；可選擇的東西；買賣的特權  |
 | monopoly | 壟斷；專利權；壟斷企業；專賣商品  |
+| luxurious | 奢華的  |
 | track | 軌道；足跡；跑道；歷程/追蹤  |
 | psychology | 心理學；算計；揣測；善解人意  |
 | effect | 結果；作用；影響；要旨/造成；實現  |
@@ -256,12 +291,17 @@
 | leadership | 指揮；統率力；領導階層  |
 | request | 要求  |
 | credit | 信用；賒帳；(經濟上的)信譽；榮譽  |
+| farewell | 告別；告別辭/告別的  |
 | colleague | 同事  |
 | overtime | 加班; 加班時間；加班費/ 加班的; 超過時間的/超過地; 在加班時間內  |
+| captain | 隊長；船(艦)長；機長；首領；陸空軍上尉；海軍上校/擔任隊長；統帥；指揮  |
+| morale | 士氣；鬥志；道德；品行  |
+| warranty | 保固單；保固期；擔保；授權  |
 | behavior | 行為；舉止；態度；(事物的)反應，變化  |
 | rigor | 嚴格(待遇)；苛刻；(氣候的)嚴酷  |
 | generator | 發電機  |
 | amuse | 給～提供娛樂；使歡樂  |
+| personality | 個性；品格；名人；人身攻擊  |
 | evaporation | 蒸發；發散；消失  |
 | depression | 沮喪  |
 | lag | 緩慢，落後/落後; 滯後; 衰退  |
@@ -273,6 +313,7 @@
 | automatically | 自動地；無意識地；不自覺地  |
 | column | 欄；圓柱；報紙  |
 | housing | 住宅；住房建築  |
+| member | 成員；會員  |
 | appointment | 約定；指派；職位；注定  |
 | ordinance | 法令；條例  |
 | resentment | 憤怒  |
@@ -286,7 +327,9 @@
 | vicinity | 周圍附近  |
 | science | 科學；自然科學；學科  |
 | soccer | 足球  |
+| counselor | 輔導員；法律顧問  |
 | forward | 向前；今後；提前/前面的；早的；熱心的/轉交；發送；促進/前鋒  |
+| gathering | 聚集  |
 | credible | 可信的  |
 | inception | 成立；創立；開始；開端  |
 | scientist | 科學家；自然科學家  |
@@ -314,13 +357,17 @@
 | sustain | 維持  |
 | retail | 零售；零售的(地)  |
 | speculate | 推測；投機  |
+| acceptance | 接受  |
 | filter | 過濾器/過濾  |
 | acknowledge | 承認；就...表示謝忱；告知收到(信件等)；對...打招呼  |
 | part-time | 兼任的；兼職的  |
 | whatever | 任何的；無論什麼；毫不/不管什麼；究竟什麼；諸如  |
 | modify | 修改；溫和  |
 | component | (機器、設備等的)構成要素; 零件; 成分/組成的; 構成的  |
+| dynamic | 動力的；動態的；有活力的; 有生氣的; 強有力的  |
 | automaton | 機器人；工作機械式的人  |
+| appoint | 任命；指派  |
+| approbation | 讚許；批准  |
 | resign | 辭職  |
 | adapt | 使適應  |
 | tardy | 遲到的；遲延的；緩慢的；遲鈍的  |
@@ -328,6 +375,7 @@
 | refund | 退款；償還金額  |
 | motel | 汽車旅館  |
 | overseas | 來自海外的  |
+| board | 木板；伙食；牌子；委員會；舞台/登上(船或車等)；用木板覆蓋；搭伙  |
 | intensity | 強烈；強度  |
 | compartment | 區劃; 劃分; 隔間；小客房/分隔; 劃分  |
 | portable | 便攜的/手提式製品  |
@@ -347,9 +395,11 @@
 | tactics | 戰術；策略  |
 | pressure | 壓力；按；困擾；大氣壓力/對...施加壓力；迫使  |
 | editorial | 編輯(上)的; 編者的; 主管的; 社論的; 社論式的/(報刊的)社論  |
+| delegate | 委派...為代表；授(權); 把...委託給/委派...為代表  |
 | eloquent | 雄辯的  |
 | supervisor | 監督人  |
 | mattress | 床墊  |
+| embrace | 擁抱；包括；抓住(機會等)；信奉  |
 | merger | (公司等的)合併  |
 | confer | 商議；授予  |
 | pastry | 油酥(或其他配料的)麵糰；酥皮點心(如餡餅  |
