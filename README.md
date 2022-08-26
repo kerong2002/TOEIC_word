@@ -1,5 +1,4 @@
-# kerong_myword
-## myword
+# TOEIC_word
 <font size=5>
     
 | 單字(400) | 中文翻譯  |
